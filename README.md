@@ -1,16 +1,3 @@
-# _6_weather_app
+This repository hosts a Flutter application designed to provide real-time weather information using Bloc/Cubit for efficient state management and integration with a weather API for data retrieval. The app enables users to fetch and view weather details such as current temperature, maximum and minimum temperatures, weather conditions, and last updated time for any location worldwide.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
